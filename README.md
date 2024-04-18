@@ -2,7 +2,7 @@
 
 ![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvinbullock&layout=compact&theme=dark&exclude_repo=smb1-disasm)
 
-In addition to the programming languages shown above, I am well-versed in utilities like Linux and Git.
+In addition to the programming languages above, I am somwhat fluent in like Linux and Git.
 
 <!--
 **Calvinbullock/Calvinbullock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
