@@ -1,7 +1,5 @@
-### Hi there 👋
+# Hi there 👋
 I am am majoring in Software Enginering at BYU-Idaho, specifically in application design.
-
-Here are some of my notable personal projects:
 
 ## Personal Projects
 
@@ -20,13 +18,15 @@ A program that has a graphical and interactive Apollo 1 lander simulation built 
 A program that compares files / directories.
 [repo](https://github.com/Calvinbullock/clt).
 
+## Skills:
+
 ![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvinbullock&layout=compact&theme=dark&exclude_repo=smb1-disasm)
 
 In addition to the programming languages above, I am workably fluent in linux cli-utilities and git-cli.
 
 
-- 📫 How to reach me:
-  - Email: calvinnbullock@gmail.com
+## 📫 How to reach me:
+- Email: calvinnbullock@gmail.com
 
 <!--
 **Calvinbullock/Calvinbullock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
