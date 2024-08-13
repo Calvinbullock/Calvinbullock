@@ -10,11 +10,13 @@ Here are some of my notable personal projects:
     [repo](https://github.com/Calvinbullock/Chess)
 
 ### Tile Adventure Game (new-life)
-    This is a graphical based game that uses tiles to build a map. It currently only has one small map, but is the largest start to finish code base I have created. 
+    This is a graphical based game that uses tiles to build a map. It currently only has one small map, 
+    but is the largest start to finish code base I have created. 
     [repo](https://github.com/Calvinbullock/new-life)
 
 ### Moon Lander (A private Repo Built for College Class)
-    A program that has a graphical and interactive Apollo 1 lander simulation built in c++. I can show the code on request but can't curently have the repo public.
+    A program that has a graphical and interactive Apollo 1 lander simulation built in c++. 
+    I can show the code on request but can't curently have the repo public.
 
 ### CLT (Command Line Tools)
     A program that compares files / directories.
