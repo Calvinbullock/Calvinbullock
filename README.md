@@ -1,5 +1,5 @@
 # Hi there 👋
-I am am majoring in Software Enginering at BYU-Idaho, specifically in application design.
+I am a Software Enginering major at BYU-Idaho, specifically in application design.
 
 ## Personal Projects
 
