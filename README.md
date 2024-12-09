@@ -1,9 +1,9 @@
 # Hi there 👋
 I am a Software Enginering major at BYU-Idaho, specifically in application design.
 
-## Personal Projects
+# Personal Projects
 
-## native Apps
+# native Apps
 
 ### Terminal Chess
 This is a terminal chess game, it was my first c++ program before college.
@@ -16,7 +16,7 @@ This is a graphical based game that uses tiles to build a map. It currently only
 ### Moon Lander (In a repo containing 2 college projects)
 A program that has a graphical and interactive Apollo 1 lander simulation built in c++. [Video Demo](https://youtu.be/vteOscpogmw), [code repo](https://github.com/Calvinbullock/encapsulationDesign//tree/main/06week).
 
-## Web
+# Web
 
 ### Note-ed
 A note taking web application, my first React.js web app - React.js frontend and google-firebase backend.
