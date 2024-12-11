@@ -3,7 +3,7 @@ I am a Software Enginering major at BYU-Idaho, specifically in application desig
 
 # Personal Projects
 
-# native Apps
+# Native Apps
 
 ### Terminal Chess
 This is a terminal chess game, it was my first c++ program before college.
