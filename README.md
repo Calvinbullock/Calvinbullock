@@ -13,8 +13,12 @@ This is a terminal chess game, it was my first c++ program before college.
 This is a graphical based game that uses tiles to build a map. It currently only has one small map, but is the largest start to finish code base I have created. 
 [repo](https://github.com/Calvinbullock/new-life).
 
-### Moon Lander (In a repo containing 2 college projects)
-A program that has a graphical and interactive Apollo 1 lander simulation built in c++. [Video Demo](https://youtu.be/vteOscpogmw), [code repo](https://github.com/Calvinbullock/encapsulationDesign//tree/main/06week).
+### Moon Lander (In a repo containing 2 college projects, this is in week-06)
+A program that has a graphical and interactive Apollo 1 lander simulation built in c++. [Video Demo](https://youtu.be/xvhQ1I8qxOY), [code repo](https://github.com/Calvinbullock/encapsulationDesign//tree/main/06week).
+
+### Orbit Simulator (In a repo containing 2 college projects this is in week-10)
+A program that has a graphical and interactive Satallite orbit (around earth) simulation game built in c++.
+[Video Demo](https://youtu.be/vteOscpogmw), [code repo](https://github.com/Calvinbullock/inheritanceDesign/tree/main/week-10).
 
 # Web
 
