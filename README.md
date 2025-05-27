@@ -6,7 +6,7 @@ I am a Software Enginering major at BYU-Idaho, specifically in application desig
 # Web
 
 ### TimeTracer
-A Chrome exstention that tracks the time one spends on sites visted, it stores all data localy and provides a weekly average of time spent for each site. (Chrome Store)[https://chromewebstore.google.com/detail/timetracer/oalkfnhcckpeghkjmaoidcckokidaoap] (github repo)[https://github.com/Calvinbullock/timeTracer].
+A Chrome exstention that tracks the time one spends on sites visted, it stores all data localy and provides a weekly average of time spent for each site. [Chrome Store](https://chromewebstore.google.com/detail/timetracer/oalkfnhcckpeghkjmaoidcckokidaoap) [github repo](https://github.com/Calvinbullock/timeTracer).
 
 ### Note-ed
 A note taking web application, my first React.js web app - React.js frontend and google-firebase backend.
