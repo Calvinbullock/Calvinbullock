@@ -3,6 +3,18 @@ I am a Software Enginering major at BYU-Idaho, specifically in application desig
 
 # Personal Projects
 
+# Web
+
+### TimeTracer
+A Chrome exstention that tracks the time one spends on sites visted, it stores all data localy and provides a weekly average of time spent for each site. (Chrome Store)[https://chromewebstore.google.com/detail/timetracer/oalkfnhcckpeghkjmaoidcckokidaoap] (github repo)[https://github.com/Calvinbullock/timeTracer].
+
+### Note-ed
+A note taking web application, my first React.js web app - React.js frontend and google-firebase backend.
+[repo](https://github.com/Calvinbullock/Note-ed) [live site](https://noted-eeafd.web.app/)
+
+### Car Sales Website
+A full stack website I built for my backend dev class. The repo is private on instructer request, but I can show parts of it on request and also have a demo. (Email a Reqest) [Video Demo](https://youtu.be/rVOlSgr48C0)
+
 # Native Apps
 
 ### Terminal Chess
@@ -19,15 +31,6 @@ A program that has a graphical and interactive Apollo 1 lander simulation built 
 ### Orbit Simulator (In a repo containing 2 college projects this is in week-10)
 A program that has a graphical and interactive Satallite orbit (around earth) simulation game built in c++.
 [Video Demo](https://youtu.be/xvhQ1I8qxOY), [code repo](https://github.com/Calvinbullock/inheritanceDesign/tree/main/week-10).
-
-# Web
-
-### Note-ed
-A note taking web application, my first React.js web app - React.js frontend and google-firebase backend.
-[repo](https://github.com/Calvinbullock/Note-ed) [live site](https://noted-eeafd.web.app/)
-
-### Car Sales Website
-A full stack website I built for my backend dev class. The repo is private on instructer request, but I can show parts of it on request and also have a demo. (Email a Reqest) [Video Demo](https://youtu.be/rVOlSgr48C0)
 
 ## Skills:
 
