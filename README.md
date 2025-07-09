@@ -8,14 +8,17 @@ I am a Software Enginering major at BYU-Idaho, specifically in application desig
 ### TimeTracer
 A Chrome exstention that tracks the time one spends on sites visted, it stores all data localy and provides a weekly average of time spent for each site. [Chrome Store](https://chromewebstore.google.com/detail/timetracer/oalkfnhcckpeghkjmaoidcckokidaoap), [github repo](https://github.com/Calvinbullock/timeTracer).
 
-### Note-ed
-A note taking web application, my first React.js web app - React.js frontend and google-firebase backend.
-[repo](https://github.com/Calvinbullock/Note-ed) [live site](https://noted-eeafd.web.app/)
+### Re-Note-ed
+A note taking web application, A React.js and Typescript web app - React.js frontend and google-firebase backend. Has cuntinues intagration workflow practices.
+[repo](https://github.com/Calvinbullock/re-Note-ed) [live site](https://noted-eeafd.web.app/)
 
 ### Car Sales Website
 A full stack website I built for my backend dev class. The repo is private on instructer request, but I can show parts of it on request and also have a demo. (Email a Reqest) [Video Demo](https://youtu.be/rVOlSgr48C0)
 
 # Native Apps
+
+### Quote-cli
+A command-line interface / tool built in Go-lang that displays inspirational quotes, with features to search, and filter quotes by author or tag. Designed for quick access to motivation directly from the terminal. Uses continuous integration testing and style checking [repo](https://github.com/Calvinbullock/quote-cli).
 
 ### Terminal Chess
 This is a terminal chess game, it was my first c++ program before college.
