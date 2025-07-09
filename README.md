@@ -18,7 +18,7 @@ A full stack website I built for my backend dev class. The repo is private on in
 # Native Apps
 
 ### Quote-cli
-A command-line interface / tool built in Go-lang that displays inspirational quotes, with features to search, and filter quotes by author or tag. Designed for quick access to motivation directly from the terminal. Uses continuous integration testing and style checking [repo](https://github.com/Calvinbullock/quote-cli).
+A command-line interface / tool built in Go-lang that displays inspirational quotes, with features to search, and filter quotes by author or tag. Designed for quick access to motivation directly from the terminal. Uses **continuous integration testing and style checking** [repo](https://github.com/Calvinbullock/quote-cli).
 
 ### Terminal Chess
 This is a terminal chess game, it was my first c++ program before college.
